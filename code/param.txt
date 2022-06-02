@@ -1,0 +1,58 @@
+ 2, N
+
+ 0, 'ti'
+ 2000, 'tf', 'Species start at the same time, ti = 1'
+ 1966305440, 'iseed'
+ 3, 'seedf'
+ 5, 'e1'
+ 7, 'e2'
+
+ 100, 'ncx'
+ 100, 'ncy'
+ 20, 'rs'
+ 2001, 'tm'
+ 
+ 2, 'sm'
+ 0, 'mur0i'
+ 2, 'mur0f'
+ 20, 'qf'
+	
+ 3.7, 0.1, 2.5 , 5.0, 'rho0', 'CYMODOCEA'
+ 46.0, 1.5, 10, 80, 'phib0'
+ 160.0, 'nu0'
+ 2.3, 'nub0'
+ 0.92, 'mur0'
+ 9, 'phiw'
+ 1750, nmax
+ 1750, nsat
+ 25, 'inin'
+ 4, 'alpha'
+ 1, 'a1'
+ 0.6, 'a1'
+ 0,'morty'
+
+ -50, 'inirangeix(1)'
+ 50, 'inirangefx(1)'
+ -50, 'inirangeiy(1)'
+ 50, 'inirangefy(1)'
+
+ 2.94, 2.7, 0.3, 3.2, 'rho0', 'CAULERPA PR0LIF.'
+ 68.75, 0.5, 40, 80, 'phib0'
+ 122.8, 'nu0'
+ 1.79, 'nub0'
+ 0.71, 'mur0'
+ 3, 'phiw'
+ 1750, nmax
+ 1750, nsat
+ 25, 'inin'
+ 4, 'alpha'
+ 0.4, 'a1'
+ 1, 'a1'
+ 0,'morty'
+
+ -50, 'inirangeix(1)'
+ 50, 'inirangefx(1)'
+ -50, 'inirangeiy(1)'
+ 50, 'inirangefy(1)'
+
+ 
